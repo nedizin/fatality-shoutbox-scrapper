@@ -36,3 +36,7 @@ Currently, if you type in either discord or fatality shoutbox
   /roll
 ```
 the bot will simulate a dice roll, and you will get a number from 1 to 6.
+
+#### Why make this?
+
+Self learning and this was a request from a friend.
